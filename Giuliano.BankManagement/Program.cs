@@ -44,6 +44,7 @@ Type 4 to Close ");
                 Console.WriteLine("Your new current balance is R$ " + currentBalance);
 
                 Console.Read();
+
             }
             else if (operation == "2")
             {
@@ -51,6 +52,10 @@ Type 4 to Close ");
                 Console.WriteLine("How much would you like to withdraw?");
 
                 withdraw = Convert.ToDouble(Console.ReadLine());
+
+                currentBalance = currentBalance - withdraw;
+
+                Console.WriteLine("Your new current balance is R$ " + currentBalance);
             }
             else if (operation == "3")
             {
