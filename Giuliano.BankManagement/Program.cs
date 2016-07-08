@@ -52,7 +52,8 @@ Type 4 to Close ");
 
                 withdraw = Convert.ToDouble(Console.ReadLine());
 
-                
+                Console.Read();
+
             }
             else if (operation == "3")
             {
