@@ -1,0 +1,6 @@
+c:\users\giuliano\documents\visual studio 2015\Projects\Giuliano.BankManagement\Giuliano.BankManagement\bin\Debug\Giuliano.BankManagement.exe.config
+c:\users\giuliano\documents\visual studio 2015\Projects\Giuliano.BankManagement\Giuliano.BankManagement\bin\Debug\Giuliano.BankManagement.exe
+c:\users\giuliano\documents\visual studio 2015\Projects\Giuliano.BankManagement\Giuliano.BankManagement\bin\Debug\Giuliano.BankManagement.pdb
+c:\users\giuliano\documents\visual studio 2015\Projects\Giuliano.BankManagement\Giuliano.BankManagement\obj\Debug\Giuliano.BankManagement.csprojResolveAssemblyReference.cache
+c:\users\giuliano\documents\visual studio 2015\Projects\Giuliano.BankManagement\Giuliano.BankManagement\obj\Debug\Giuliano.BankManagement.exe
+c:\users\giuliano\documents\visual studio 2015\Projects\Giuliano.BankManagement\Giuliano.BankManagement\obj\Debug\Giuliano.BankManagement.pdb
