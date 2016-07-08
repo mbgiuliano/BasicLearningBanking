@@ -51,6 +51,8 @@ Type 4 to Close ");
                 Console.WriteLine("How much would you like to withdraw?");
 
                 withdraw = Convert.ToDouble(Console.ReadLine());
+
+                
             }
             else if (operation == "3")
             {
