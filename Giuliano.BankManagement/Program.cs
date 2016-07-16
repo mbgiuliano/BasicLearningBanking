@@ -63,7 +63,7 @@ Type 4 to Close ");
                     else if (operation == "2")
                     {
                         //Withdraw
-                        Console.WriteLine("How much would you like to withdraw?");
+                        Console.WriteLine("How much would you like to withdraw? ");
 
                         withdraw = Convert.ToDouble(Console.ReadLine());
 
